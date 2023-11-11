@@ -1,6 +1,7 @@
 # NotionClone
  
-## Live Preview (deployed using vercel):
+## Live Preview:
+(deployed using Vercel)
 https://note-21x2jud5y-allans-projects-1fed42ce.vercel.app/
 
 ### Marketing Page
